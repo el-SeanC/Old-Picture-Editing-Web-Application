@@ -1,6 +1,7 @@
-## Old Web Application Project Allowing Users To Edit & Enhance Their Pictures
+# Picture Editing & Enhancement Web Application
+Project created for the purpose of editing, enhancing, and improving images online. Gives the user all the basic features in order to enhance their images and make them more aesthetically pleasing while on the web.
 
-### Problems I Encountered:
+### Problems Encountered:
  • Image did not load properly from API.  
  • Image did not take on CSS edit properties.  
  • Site would not load properly after using custom domain.  
